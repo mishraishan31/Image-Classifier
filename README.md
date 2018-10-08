@@ -62,7 +62,7 @@ Current settings:<br/>
 _Accuracy_: 82%
 
 ## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the process for submitting pull requests.
+Please read [CONTRIBUTION.md](CONTRIBUTION.md) for the process for submitting pull requests.
 
 ## Authors
 - Ishan Mishra - Design and coding
