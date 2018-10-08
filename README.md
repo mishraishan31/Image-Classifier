@@ -67,3 +67,5 @@ Please read [CONTRIBUTION.md](CONTRIBUTION.md) for the process for submitting pu
 ## Authors
 - Ishan Mishra - Design and coding
  - Udacity - Final Project evaluation of the AI with Python Nanodegree
+ 
+ (certificate.jpg)
