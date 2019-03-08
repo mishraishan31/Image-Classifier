@@ -151,7 +151,7 @@ def do_deep_learning(model, criterion, optimizer, epochs = 3, print_every=40, lo
 
 
                 running_loss = 0
-				model.train()
+		model.train()
 
 
 def save_checkpoint(model=0,path='checkpoint.pth',structure ='vgg16', hidden_layer1 = 4096,dropout=0.5,lr=0.001,epochs=3):
